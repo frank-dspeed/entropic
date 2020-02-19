@@ -1,0 +1,16 @@
+{
+  "groups": {
+    "default": {
+      "packages": [
+        "cli/package.json",
+        "package.json",
+        "services/common/boltzmann/package.json",
+        "services/registry/package.json",
+        "services/storage/package.json",
+        "services/web/package.json",
+        "services/workers/package.json",
+        "tools/vcpm-sync/package.json"
+      ]
+    }
+  }
+}
