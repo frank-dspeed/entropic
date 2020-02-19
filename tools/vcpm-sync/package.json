@@ -8,10 +8,10 @@
     "url": "https://github.com/entropic-dev/entropic/issues"
   },
   "dependencies": {
-    "form-data": "^2.3.3",
+    "form-data": "^3.0.0",
     "minimist": "^1.2.0",
-    "node-fetch": "^2.5.0",
-    "pacote": "^9.5.0"
+    "node-fetch": "~2.6.0",
+    "pacote": "^11.0.0"
   },
   "homepage": "https://github.com/entopic-dev/entropic#readme",
   "keywords": [],
